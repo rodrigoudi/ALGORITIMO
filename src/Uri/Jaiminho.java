@@ -3,6 +3,8 @@ import java.util.Scanner;
 
 public class Jaiminho {
 
+	
+	
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		Integer QT = scanner.nextInt();
